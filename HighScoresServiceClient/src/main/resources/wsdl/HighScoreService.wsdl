@@ -4,6 +4,7 @@
         <xs:schema xmlns:ax26="http://serivces.itcuties.com/xsd" attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://serivces.itcuties.com">
             <xs:import namespace="http://serivces.itcuties.com/xsd"/>
             <xs:element name="getHighScoresSize">
+#	    dev_changes
                 <xs:complexType>
                     <xs:sequence/>
                 </xs:complexType>
