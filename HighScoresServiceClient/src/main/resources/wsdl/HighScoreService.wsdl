@@ -5,6 +5,7 @@
             <xs:import namespace="http://serivces.itcuties.com/xsd"/>
             <xs:element name="getHighScoresSize">
 #	    dev_changes
+# creating git tags
                 <xs:complexType>
                     <xs:sequence/>
                 </xs:complexType>
